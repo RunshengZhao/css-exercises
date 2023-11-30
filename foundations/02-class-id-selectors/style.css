@@ -1,0 +1,19 @@
+/* style.css */
+p {
+    background-color: #c43e74;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.fontsize24 {
+    font-size:24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
